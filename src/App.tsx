@@ -13,6 +13,7 @@ export default function App() {
     <div>
       <ButtonProp label="Mountain" clor="pink" />
       <p>Hello</p>
+      <p>Hi</p>
     </div>
   );
 }
