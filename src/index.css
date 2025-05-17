@@ -1,0 +1,12 @@
+button {
+  background-color: #fff;
+  padding: 1rem;
+}
+p {
+  font-size: 30px;
+}
+.turnBtn {
+  background-color: #ff0000;
+  border-radius: 20%;
+  cursor: pointer;
+}
